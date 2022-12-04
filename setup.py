@@ -27,12 +27,13 @@ setup(
         'transformers==4.20.1',
         'datasets==2.0.0',
         'setuptools==59.5.0',
-        'protobuf==3.20.1',
+        'protobuf==3.19.5',
         'ftfy == 6.1.1',
         'Pillow == 8.2.0',
         'einops == 0.3.0',
         'diffusers == 0.7.2',
         'pytorch-lightning == 1.6.5',
         'taming-transformers-rom1504 == 0.0.6',
+        'jedi == 0.10',
     ]
 )
